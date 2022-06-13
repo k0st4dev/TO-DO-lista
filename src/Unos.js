@@ -6,7 +6,6 @@ const Unos = () => {
     e.preventDefault();
     const first = e.target.unos.value;
     document.getElementById("demo").innerHTML = first;
-    console.log("Uneta vrednost" + first);
   };
 
   return (

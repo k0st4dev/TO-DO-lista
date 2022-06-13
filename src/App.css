@@ -16,6 +16,9 @@ body {
   padding: 10px;
   background: linear-gradient(to bottom, #68eacc 0%, #497be8 100%);
 }
+#demo {
+  color: #fff;
+}
 .wrapper {
   background: #fff;
   max-width: 400px;

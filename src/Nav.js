@@ -6,9 +6,8 @@ export const Nav = () => {
   return (
     <div className="navigation">
       <nav className="navbar navbar-expand navbar-dark bg-dark  ">
-        <NavLink className="navbar-brand" to="/">
-          <p id="demo"></p>
-        </NavLink>
+        <p id="demo"></p>
+
         <div>
           <ul className="navbar-nav ">
             <li className="nav-item ">

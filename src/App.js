@@ -50,7 +50,6 @@ class App extends Component {
     return (
       <div className="App">
         <div className="wrapper">
-        
           <header>Dodaj u listu...</header>
           <br />
           <input
